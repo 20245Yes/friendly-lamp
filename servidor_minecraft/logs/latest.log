@@ -3648,3 +3648,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 21:56:10.675] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [05Dec2024 21:56:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiGi_III: The difficulty has been set to Peaceful]
 [05Dec2024 21:57:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiGi_III: The difficulty has been set to Normal]
+[05Dec2024 21:59:55.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=-19, z=16} BlockPos{x=21, y=-19, z=17}
+[05Dec2024 21:59:55.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=-19, z=14} BlockPos{x=23, y=-20, z=15}
+[05Dec2024 21:59:55.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=-19, z=14} BlockPos{x=23, y=-20, z=15}
+[05Dec2024 21:59:57.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-19, z=16} BlockPos{x=18, y=-19, z=17}
+[05Dec2024 21:59:59.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-19, z=16} BlockPos{x=9, y=-20, z=14}
+[05Dec2024 22:02:12.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 22:02:13.517] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 22:03:26.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=-19, z=-30} BlockPos{x=-22, y=-20, z=-33}
+[05Dec2024 22:03:27.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=-19, z=-32} BlockPos{x=-26, y=-19, z=-31}
+[05Dec2024 22:03:28.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=-19, z=-34} BlockPos{x=-25, y=-20, z=-33}
