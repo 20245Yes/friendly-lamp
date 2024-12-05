@@ -3600,3 +3600,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 21:25:40.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
 [05Dec2024 21:26:09.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Close Quarters]
 [05Dec2024 21:27:02.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has completed the challenge [It Spreads]
+[05Dec2024 21:30:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Not Today, Thank You]
+[05Dec2024 21:32:26.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:32:27.428] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:34:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Close Quarters]
+[05Dec2024 21:35:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:35:39.587] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:35:47.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur was kicked for floating too long!
+[05Dec2024 21:35:47.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur lost connection: Flying is not enabled on this server
+[05Dec2024 21:35:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur left the game
+[05Dec2024 21:35:47.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tinwur
+[05Dec2024 21:36:14.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tinwur[/127.57.245.215:51543] logged in with entity id 10147 at (24.138447915339537, -19.00479912299409, 9.147725124539766)
+[05Dec2024 21:36:14.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tinwur
+[05Dec2024 21:36:14.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tinwur
+[05Dec2024 21:36:14.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tinwur
+[05Dec2024 21:36:14.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tinwur
+[05Dec2024 21:36:14.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tinwur
+[05Dec2024 21:36:14.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tinwur
+[05Dec2024 21:36:14.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tinwur
+[05Dec2024 21:36:14.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur joined the game
+[05Dec2024 21:36:15.081] [Server thread/INFO] [Jade/]: Syncing config to Tinwur (3ec791ce-6550-3d12-938f-445f8f4b0659)
+[05Dec2024 21:36:15.586] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tinwur (18)
+[05Dec2024 21:36:15.587] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tinwur
+[05Dec2024 21:36:25.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:36:26.606] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:37:29.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:37:30.558] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:38:22.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:38:31.122] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
