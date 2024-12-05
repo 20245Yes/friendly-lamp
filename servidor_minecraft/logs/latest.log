@@ -3658,3 +3658,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 22:03:26.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=-19, z=-30} BlockPos{x=-22, y=-20, z=-33}
 [05Dec2024 22:03:27.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=-19, z=-32} BlockPos{x=-26, y=-19, z=-31}
 [05Dec2024 22:03:28.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=-19, z=-34} BlockPos{x=-25, y=-20, z=-33}
+[05Dec2024 22:11:57.368] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
