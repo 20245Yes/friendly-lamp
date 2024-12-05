@@ -3580,3 +3580,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 21:18:04.768] [Server thread/INFO] [Jade/]: Syncing config to GiGi_III (b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82)
 [05Dec2024 21:18:06.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GiGi_III (18)
 [05Dec2024 21:18:06.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GiGi_III
+[05Dec2024 21:18:56.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 21:18:56.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...objectives<--[HERE]
+[05Dec2024 21:19:14.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 21:19:14.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...setdisplay<--[HERE]
+[05Dec2024 21:19:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. That display slot is already empty
+[05Dec2024 21:19:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Barrel Booty]
+[05Dec2024 21:19:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Acquire Hardware]
+[05Dec2024 21:20:08.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown scoreboard objective 'vida'
+[05Dec2024 21:20:14.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set display slot list to show objective Vida
+[05Dec2024 21:20:41.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Barrel Booty]
+[05Dec2024 21:20:46.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Diamonds!]
+[05Dec2024 21:21:05.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Diamonds!]
+[05Dec2024 21:21:39.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Disme A Dozen]
+[05Dec2024 21:21:57.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Disme A Dozen]
+[05Dec2024 21:22:40.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Suit Up]
+[05Dec2024 21:23:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Isn't It Iron Pick]
+[05Dec2024 21:25:40.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[05Dec2024 21:25:40.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[05Dec2024 21:26:09.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Close Quarters]
+[05Dec2024 21:27:02.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has completed the challenge [It Spreads]
