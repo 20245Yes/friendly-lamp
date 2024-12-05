@@ -3484,3 +3484,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 20:36:48.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/fallout/FalloutMode
 [05Dec2024 20:37:15.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/communi/suggestu/scena/core/event/ProcessingResult
 [05Dec2024 20:37:15.940] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/chiselsandbits/api/item/click/ClickProcessingState$ProcessingResult
+[05Dec2024 20:39:06.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[05Dec2024 20:39:06.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[05Dec2024 20:39:58.771] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[05Dec2024 20:40:02.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiGi_III: Set the time to 1000]
+[05Dec2024 20:40:25.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[05Dec2024 20:40:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Monster Hunter]
+[05Dec2024 20:40:29.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/mari_023/ae2wtlib/wct/magnet_card/MagnetMode
+[05Dec2024 20:41:35.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[05Dec2024 20:41:35.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[05Dec2024 20:42:53.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement ['X' Marks the Spot]
+[05Dec2024 20:43:22.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Alex's Mobs]
+[05Dec2024 20:43:58.003] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[05Dec2024 20:43:58.006] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[05Dec2024 20:44:56.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiGi_III: The difficulty has been set to Normal]
+[05Dec2024 20:45:15.482] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[05Dec2024 20:45:15.484] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[05Dec2024 20:46:41.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[05Dec2024 20:46:45.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Monster Hunter]
