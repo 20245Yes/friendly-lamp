@@ -3533,3 +3533,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 21:01:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Stone Age]
 [05Dec2024 21:02:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Getting an Upgrade]
 [05Dec2024 21:06:53.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[05Dec2024 21:14:15.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tinwur[/127.57.245.215:34509] logged in with entity id 6389 at (39.69059860627311, 13.0, 23.70051115505255)
+[05Dec2024 21:14:15.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tinwur
+[05Dec2024 21:14:15.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tinwur
+[05Dec2024 21:14:15.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tinwur
+[05Dec2024 21:14:15.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tinwur
+[05Dec2024 21:14:15.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tinwur
+[05Dec2024 21:14:15.261] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tinwur
+[05Dec2024 21:14:15.261] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tinwur
+[05Dec2024 21:14:15.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur joined the game
+[05Dec2024 21:14:15.437] [Server thread/INFO] [Jade/]: Syncing config to Tinwur (3ec791ce-6550-3d12-938f-445f8f4b0659)
+[05Dec2024 21:14:20.518] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tinwur (18)
+[05Dec2024 21:14:20.518] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tinwur
+[05Dec2024 21:15:46.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiGi_III lost connection: Timed out
+[05Dec2024 21:15:46.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III left the game
+[05Dec2024 21:15:46.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GiGi_III
+[05Dec2024 21:16:06.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 21:16:06.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[05Dec2024 21:16:17.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiGi_III[/127.186.105.195:51747] logged in with entity id 6605 at (32.3536689808375, 13.0, 21.95381462670302)
+[05Dec2024 21:16:18.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to GiGi_III
+[05Dec2024 21:16:18.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to GiGi_III
+[05Dec2024 21:16:18.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to GiGi_III
+[05Dec2024 21:16:18.008] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to GiGi_III
+[05Dec2024 21:16:18.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to GiGi_III
+[05Dec2024 21:16:18.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to GiGi_III
+[05Dec2024 21:16:18.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to GiGi_III
+[05Dec2024 21:16:18.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III joined the game
+[05Dec2024 21:16:18.213] [Server thread/INFO] [Jade/]: Syncing config to GiGi_III (b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82)
+[05Dec2024 21:16:20.181] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GiGi_III (18)
+[05Dec2024 21:16:20.181] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GiGi_III
+[05Dec2024 21:16:20.557] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:17:33.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiGi_III lost connection: Timed out
+[05Dec2024 21:17:33.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III left the game
+[05Dec2024 21:17:33.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GiGi_III
+[05Dec2024 21:17:34.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Created new objective [Vida]
+[05Dec2024 21:18:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Getting an Upgrade]
+[05Dec2024 21:18:04.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiGi_III[/127.186.105.195:60763] logged in with entity id 6927 at (36.025876964077355, 13.0, 21.689398560879194)
+[05Dec2024 21:18:04.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to GiGi_III
+[05Dec2024 21:18:04.510] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to GiGi_III
+[05Dec2024 21:18:04.510] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to GiGi_III
+[05Dec2024 21:18:04.510] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to GiGi_III
+[05Dec2024 21:18:04.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to GiGi_III
+[05Dec2024 21:18:04.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to GiGi_III
+[05Dec2024 21:18:04.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to GiGi_III
+[05Dec2024 21:18:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III joined the game
+[05Dec2024 21:18:04.768] [Server thread/INFO] [Jade/]: Syncing config to GiGi_III (b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82)
+[05Dec2024 21:18:06.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GiGi_III (18)
+[05Dec2024 21:18:06.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GiGi_III
