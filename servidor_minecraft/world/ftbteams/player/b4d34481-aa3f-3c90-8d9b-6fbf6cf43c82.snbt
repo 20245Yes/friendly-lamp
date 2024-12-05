@@ -2,9 +2,7 @@
 	id: "b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82"
 	type: "player"
 	player_name: "GiGi_III"
-	ranks: {
-		b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "GiGi_III"
 		"ftbteams:description": ""

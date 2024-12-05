@@ -1,0 +1,17 @@
+{
+	id: "48674a74-d7fb-4b22-969a-55eeed9e3add"
+	type: "party"
+	owner: "b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82"
+	ranks: {
+		b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Party del Lauta"
+		"ftbteams:description": "a"
+		"ftbteams:color": "#9759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1733432682530L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"GiGi_III\"}]}" }]
+	extra: { }
+}
