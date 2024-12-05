@@ -1,0 +1,17 @@
+{
+	id: "3ec791ce-6550-3d12-938f-445f8f4b0659"
+	type: "player"
+	player_name: "Tinwur"
+	ranks: {
+		3ec791ce-6550-3d12-938f-445f8f4b0659: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tinwur"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F7FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

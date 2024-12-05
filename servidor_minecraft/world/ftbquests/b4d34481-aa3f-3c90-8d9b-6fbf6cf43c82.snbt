@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b4d34481aa3f3c908d9b6fbf6cf43c82"
+	name: "GiGi_III#b4d34481"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3ec791ce65503d12938f445f8f4b0659"
+	name: "Tinwur#3ec791ce"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

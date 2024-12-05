@@ -1,0 +1,17 @@
+{
+	id: "b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82"
+	type: "player"
+	player_name: "GiGi_III"
+	ranks: {
+		b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GiGi_III"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
