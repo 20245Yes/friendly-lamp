@@ -3628,3 +3628,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 21:37:30.558] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [05Dec2024 21:38:22.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
 [05Dec2024 21:38:31.122] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:39:07.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:39:09.421] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:40:14.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Cover Me with Diamonds]
+[05Dec2024 21:42:41.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:42:42.983] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:43:15.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[05Dec2024 21:43:15.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction

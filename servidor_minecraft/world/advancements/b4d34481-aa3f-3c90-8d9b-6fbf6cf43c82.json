@@ -7195,6 +7195,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-05 21:37:16 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_drakkar": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
@@ -7807,6 +7813,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-05 21:20:46 +0000"
@@ -7840,6 +7852,12 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-05 21:35:58 +0000"
     },
     "done": true
   },
@@ -7894,6 +7912,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-05 21:37:16 +0000"
     },
     "done": true
   },
@@ -7973,6 +7997,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-05 21:35:58 +0000"
     },
     "done": true
   },
@@ -8078,6 +8108,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-05 21:40:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
@@ -8147,6 +8183,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-05 21:35:58 +0000"
     },
     "done": true
   },
