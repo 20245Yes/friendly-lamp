@@ -3635,3 +3635,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 21:42:42.983] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [05Dec2024 21:43:15.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [05Dec2024 21:43:15.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[05Dec2024 21:49:12.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:49:13.797] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:49:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur was slain by Zombie
+[05Dec2024 21:49:21.179] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:49:56.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur lost connection: Disconnected
+[05Dec2024 21:49:56.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur left the game
+[05Dec2024 21:49:56.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tinwur
+[05Dec2024 21:50:29.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:50:30.657] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:56:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III was slain by Zombie
+[05Dec2024 21:56:10.675] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Dec2024 21:56:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiGi_III: The difficulty has been set to Peaceful]
+[05Dec2024 21:57:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiGi_III: The difficulty has been set to Normal]

@@ -7045,6 +7045,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:47:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
@@ -7054,6 +7060,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
     },
     "done": true
   },
@@ -7069,9 +7081,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:47:25 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2024-12-05 21:47:25 +0000"
     },
     "done": true
   },
@@ -7096,6 +7126,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-05 21:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-05 21:53:24 +0000"
     },
     "done": true
   },
@@ -7147,6 +7183,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-05 21:20:43 +0000"
@@ -7171,6 +7213,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2024-12-05 21:49:44 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2024-12-05 21:20:46 +0000"
@@ -7192,6 +7240,18 @@
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-05 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:47:25 +0000"
     },
     "done": true
   },
@@ -7222,6 +7282,12 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 21:47:25 +0000"
     },
     "done": true
   },
@@ -7261,6 +7327,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2024-12-05 21:20:43 +0000"
@@ -7294,6 +7366,12 @@
   "smallships:recipes/transportation/bamboo_drakkar": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2024-12-05 21:53:24 +0000"
     },
     "done": true
   },
@@ -7357,6 +7435,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-05 21:22:02 +0000"
@@ -7366,6 +7450,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-12-05 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 21:47:25 +0000"
     },
     "done": true
   },
@@ -7621,6 +7711,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:47:25 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_exchanging": {
     "criteria": {
       "has_diamond": "2024-12-05 21:20:46 +0000"
@@ -7648,6 +7744,12 @@
   "decorative_blocks:recipes/building_blocks/spruce_support": {
     "criteria": {
       "has_plank": "2024-12-05 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
     },
     "done": true
   },
@@ -7717,6 +7819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 21:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
@@ -7762,6 +7870,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-05 21:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 21:47:25 +0000"
     },
     "done": true
   },
@@ -7903,6 +8017,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
@@ -7942,6 +8062,12 @@
   "betterarcheology:recipes/recipe_diamond_brush": {
     "criteria": {
       "has_item": "2024-12-05 21:20:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:47:25 +0000"
     },
     "done": true
   },
@@ -7988,6 +8114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 21:47:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-05 21:24:55 +0000"
@@ -7997,6 +8129,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2024-12-05 21:33:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-12-05 21:46:52 +0000"
     },
     "done": true
   },
@@ -8060,6 +8198,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2024-12-05 21:20:43 +0000"
@@ -8087,6 +8231,12 @@
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-05 21:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 21:47:25 +0000"
     },
     "done": true
   },
@@ -8171,6 +8321,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2024-12-05 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
     },
     "done": true
   },
@@ -8279,6 +8435,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2024-12-05 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-05 21:49:44 +0000"
     },
     "done": true
   },
