@@ -3470,3 +3470,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Dec2024 21:08:01.387] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [07Dec2024 21:08:01.387] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [07Dec2024 21:08:01.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipState
+[07Dec2024 21:12:33.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Penteconter]
+[07Dec2024 21:19:41.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[07Dec2024 21:19:41.376] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult

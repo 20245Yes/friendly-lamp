@@ -8660,6 +8660,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 21:08:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_alt_item": "2024-12-07 21:06:06 +0000"
@@ -8690,6 +8696,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/misc/crafting/coal_from_coal_piece": {
+    "criteria": {
+      "has_coal": "2024-12-07 21:14:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_hoe": {
     "criteria": {
       "has_item": "2024-12-07 21:06:06 +0000"
@@ -8705,6 +8717,12 @@
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2024-12-07 21:06:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2024-12-07 21:14:18 +0000"
     },
     "done": true
   },
@@ -8744,6 +8762,18 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-07 21:12:33 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-07 21:08:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_chestplate": {
     "criteria": {
       "has_item": "2024-12-07 21:06:06 +0000"
@@ -8777,6 +8807,12 @@
   "botania:recipes/tools/lava_pendant": {
     "criteria": {
       "has_item": "2024-12-07 21:06:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-07 21:10:55 +0000"
     },
     "done": true
   },
@@ -8831,6 +8867,18 @@
   "botania:recipes/misc/lens_normal": {
     "criteria": {
       "has_item": "2024-12-07 21:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-07 21:14:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-07 21:08:50 +0000"
     },
     "done": true
   },
