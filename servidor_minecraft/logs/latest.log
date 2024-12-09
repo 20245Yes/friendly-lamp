@@ -3465,3 +3465,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Dec2024 23:07:57.767] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tinwur
 [09Dec2024 23:07:57.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur joined the game
 [09Dec2024 23:07:57.949] [Server thread/INFO] [Jade/]: Syncing config to Tinwur (3ec791ce-6550-3d12-938f-445f8f4b0659)
+[09Dec2024 23:08:06.684] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tinwur (18)
+[09Dec2024 23:08:06.686] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tinwur
+[09Dec2024 23:09:36.120] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[09Dec2024 23:11:15.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[09Dec2024 23:11:16.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[09Dec2024 23:11:16.815] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[09Dec2024 23:11:30.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/mari_023/ae2wtlib/wct/magnet_card/MagnetMode
+[09Dec2024 23:11:34.467] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[09Dec2024 23:11:35.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Dec2024 23:11:35.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_mateonavarro_> pasen cords
+[09Dec2024 23:12:33.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement ['X' Marks the Spot]
+[09Dec2024 23:13:11.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[09Dec2024 23:13:11.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Monster Hunter]
+[09Dec2024 23:14:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Barrel Booty]
+[09Dec2024 23:14:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Acquire Hardware]
+[09Dec2024 23:15:01.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Suit Up]
+[09Dec2024 23:16:31.817] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/CraterType
+[09Dec2024 23:16:31.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/fallout/FalloutMode
+[09Dec2024 23:17:17.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Isn't It Iron Pick]
+[09Dec2024 23:18:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Cover Me with Diamonds]

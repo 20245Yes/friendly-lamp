@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "963d5d989b02394c8413e2dc07967d81"
+	name: "_mateonavarro_#963d5d98"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
