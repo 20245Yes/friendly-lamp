@@ -3485,3 +3485,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Dec2024 23:16:31.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting appeng/worldgen/meteorite/fallout/FalloutMode
 [09Dec2024 23:17:17.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Isn't It Iron Pick]
 [09Dec2024 23:18:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Cover Me with Diamonds]
+[09Dec2024 23:18:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Disme A Dozen]
+[09Dec2024 23:18:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Diamonds!]
+[09Dec2024 23:19:58.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur lost connection: Disconnected
+[09Dec2024 23:19:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur left the game
+[09Dec2024 23:19:58.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tinwur
+[09Dec2024 23:19:58.976] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Dec2024 23:21:31.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Dec2024 23:21:31.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Close Quarters]
+[09Dec2024 23:21:56.382] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[09Dec2024 23:21:56.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[09Dec2024 23:24:39.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[09Dec2024 23:24:39.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Dec2024 23:26:29.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Dec2024 23:28:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [The Hoarding Begins]
