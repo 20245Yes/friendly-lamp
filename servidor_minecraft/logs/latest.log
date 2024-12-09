@@ -3573,3 +3573,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Dec2024 23:47:31.028] [Server thread/INFO] [Jade/]: Syncing config to Tinwur (3ec791ce-6550-3d12-938f-445f8f4b0659)
 [09Dec2024 23:47:31.787] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tinwur (18)
 [09Dec2024 23:47:31.787] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tinwur
+[09Dec2024 23:50:59.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has completed the challenge [Centennial]
+[09Dec2024 23:56:32.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[09Dec2024 23:56:32.838] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
