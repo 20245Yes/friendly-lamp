@@ -1,0 +1,17 @@
+{
+	id: "963d5d98-9b02-394c-8413-e2dc07967d81"
+	type: "player"
+	player_name: "_mateonavarro_"
+	ranks: {
+		963d5d98-9b02-394c-8413-e2dc07967d81: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_mateonavarro_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59BDFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
