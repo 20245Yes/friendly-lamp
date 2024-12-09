@@ -3516,3 +3516,60 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Dec2024 23:33:35.924] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [09Dec2024 23:33:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Penteconter]
 [09Dec2024 23:33:53.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Penteconter]
+[09Dec2024 23:41:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has completed the challenge [Centennial]
+[09Dec2024 23:42:29.202] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.209] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[09Dec2024 23:42:29.264] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.266] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.268] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.269] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[09Dec2024 23:42:29.271] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.274] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.276] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.278] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.280] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.283] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.284] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.289] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.291] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.294] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[09Dec2024 23:42:29.295] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.298] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.301] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.304] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[09Dec2024 23:42:29.305] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.306] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.308] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[09Dec2024 23:42:29.308] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[09Dec2024 23:42:29.310] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.313] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.316] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.318] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.322] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.324] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.325] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.329] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.330] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.363] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[09Dec2024 23:42:29.369] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[09Dec2024 23:42:29.371] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.373] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.376] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[09Dec2024 23:42:29.378] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[09Dec2024 23:42:29.378] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[09Dec2024 23:46:45.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur was kicked for floating too long!
+[09Dec2024 23:46:45.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur lost connection: Flying is not enabled on this server
+[09Dec2024 23:46:45.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur left the game
+[09Dec2024 23:46:45.429] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tinwur
+[09Dec2024 23:47:30.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tinwur[/127.57.245.215:33781] logged in with entity id 7167 at (116.38866111171377, -4.9369156260116585, 58.98683227786416)
+[09Dec2024 23:47:30.578] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tinwur
+[09Dec2024 23:47:30.578] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tinwur
+[09Dec2024 23:47:30.579] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tinwur
+[09Dec2024 23:47:30.579] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tinwur
+[09Dec2024 23:47:30.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tinwur
+[09Dec2024 23:47:30.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tinwur
+[09Dec2024 23:47:30.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tinwur
+[09Dec2024 23:47:30.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur joined the game
+[09Dec2024 23:47:31.028] [Server thread/INFO] [Jade/]: Syncing config to Tinwur (3ec791ce-6550-3d12-938f-445f8f4b0659)
+[09Dec2024 23:47:31.787] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tinwur (18)
+[09Dec2024 23:47:31.787] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tinwur
