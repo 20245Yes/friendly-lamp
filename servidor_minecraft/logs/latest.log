@@ -3499,3 +3499,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Dec2024 23:24:39.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [09Dec2024 23:26:29.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [09Dec2024 23:28:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [The Hoarding Begins]
+[09Dec2024 23:29:11.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tinwur[/127.57.245.215:59515] logged in with entity id 4047 at (30.69999998807907, -18.5, -51.69999998807907)
+[09Dec2024 23:29:11.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tinwur
+[09Dec2024 23:29:11.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tinwur
+[09Dec2024 23:29:11.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tinwur
+[09Dec2024 23:29:11.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tinwur
+[09Dec2024 23:29:11.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tinwur
+[09Dec2024 23:29:11.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tinwur
+[09Dec2024 23:29:11.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tinwur
+[09Dec2024 23:29:11.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur joined the game
+[09Dec2024 23:29:12.066] [Server thread/INFO] [Jade/]: Syncing config to Tinwur (3ec791ce-6550-3d12-938f-445f8f4b0659)
+[09Dec2024 23:29:18.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tinwur (18)
+[09Dec2024 23:29:18.325] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tinwur
+[09Dec2024 23:32:34.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[09Dec2024 23:33:35.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[09Dec2024 23:33:35.924] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Dec2024 23:33:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Penteconter]
+[09Dec2024 23:33:53.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Penteconter]
