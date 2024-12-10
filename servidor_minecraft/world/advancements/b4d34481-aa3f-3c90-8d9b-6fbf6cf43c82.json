@@ -2484,7 +2484,9 @@
     "criteria": {
       "cold_desert": "2024-12-09 23:42:08 +0000",
       "coniferous_forest": "2024-12-03 15:00:57 +0000",
-      "fir_clearing": "2024-12-05 21:33:57 +0000"
+      "seasonal_orchard": "2024-12-10 00:04:33 +0000",
+      "fir_clearing": "2024-12-05 21:33:57 +0000",
+      "tundra": "2024-12-10 00:01:52 +0000"
     },
     "done": false
   },
@@ -2560,6 +2562,7 @@
       "minecraft:skeleton": "2024-12-05 20:41:38 +0000",
       "minecraft:spider": "2024-12-05 20:56:32 +0000",
       "minecraft:slime": "2024-12-09 23:17:50 +0000",
+      "minecraft:husk": "2024-12-09 23:58:45 +0000",
       "minecraft:enderman": "2024-12-05 20:40:26 +0000",
       "minecraft:zombie": "2024-12-05 20:49:37 +0000",
       "minecraft:drowned": "2024-12-09 23:51:59 +0000"
@@ -8917,9 +8920,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-09 23:57:48 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_impact_hammer": {
     "criteria": {
       "has_material": "2024-12-09 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2024-12-09 23:56:36 +0000"
     },
     "done": true
   },
@@ -8980,6 +8995,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-09 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-10 00:02:15 +0000"
     },
     "done": true
   },

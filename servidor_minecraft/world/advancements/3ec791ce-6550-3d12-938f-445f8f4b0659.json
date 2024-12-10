@@ -2460,7 +2460,9 @@
     "criteria": {
       "cold_desert": "2024-12-09 23:43:37 +0000",
       "coniferous_forest": "2024-12-05 20:33:52 +0000",
-      "fir_clearing": "2024-12-09 23:33:41 +0000"
+      "seasonal_orchard": "2024-12-10 00:02:18 +0000",
+      "fir_clearing": "2024-12-09 23:33:41 +0000",
+      "tundra": "2024-12-10 00:02:20 +0000"
     },
     "done": false
   },
@@ -2497,6 +2499,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-05 20:42:09 +0000",
+      "golden_carrot": "2024-12-10 00:01:05 +0000",
       "carrot": "2024-12-05 21:27:23 +0000"
     },
     "done": false
@@ -3795,6 +3798,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-05 21:28:45 +0000",
+      "minecraft:vindicator": "2024-12-10 00:04:31 +0000",
+      "minecraft:spider": "2024-12-09 23:57:41 +0000",
       "minecraft:zombie": "2024-12-05 20:46:45 +0000"
     },
     "done": false
@@ -7225,6 +7230,36 @@
   "new_slab_variants:recipes/building_blocks/blue_concrete_slab": {
     "criteria": {
       "has_blue_concrete": "2024-12-09 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-09 23:59:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-10 00:00:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-09 23:57:54 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-10 00:02:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-10 00:02:41 +0000"
     },
     "done": true
   },
