@@ -42,3 +42,35 @@
 [10Dec2024 00:04:51.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [10Dec2024 00:04:51.792] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
 [10Dec2024 00:05:35.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Local Brewery]
+[10Dec2024 00:10:59.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur was kicked for floating too long!
+[10Dec2024 00:10:59.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur lost connection: Flying is not enabled on this server
+[10Dec2024 00:10:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur left the game
+[10Dec2024 00:10:59.926] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tinwur
+[10Dec2024 00:11:46.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tinwur[/127.57.245.215:47093] logged in with entity id 12559 at (197.62851923082147, 80.31522745887379, 109.05790867110109)
+[10Dec2024 00:11:46.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tinwur
+[10Dec2024 00:11:46.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tinwur
+[10Dec2024 00:11:46.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tinwur
+[10Dec2024 00:11:46.108] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tinwur
+[10Dec2024 00:11:46.110] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tinwur
+[10Dec2024 00:11:46.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tinwur
+[10Dec2024 00:11:46.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tinwur
+[10Dec2024 00:11:46.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur joined the game
+[10Dec2024 00:11:46.639] [Server thread/INFO] [Jade/]: Syncing config to Tinwur (3ec791ce-6550-3d12-938f-445f8f4b0659)
+[10Dec2024 00:11:48.531] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tinwur (18)
+[10Dec2024 00:11:48.532] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tinwur
+[10Dec2024 00:13:50.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tinwur> HOLA CHICOS
+[10Dec2024 00:13:55.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tinwur> ME VOY A SUICIDAR
+[10Dec2024 00:13:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tinwur> PORQUE SOY NEGRO
+[10Dec2024 00:14:00.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GiGi_III> suicidate porfa
+[10Dec2024 00:14:28.099] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[10Dec2024 00:14:32.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiGi_III lost connection: Disconnected
+[10Dec2024 00:14:32.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III left the game
+[10Dec2024 00:14:32.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GiGi_III
+[10Dec2024 00:15:41.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ has made the advancement [Sweet Dreams]
+[10Dec2024 00:16:42.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _mateonavarro_ lost connection: Disconnected
+[10Dec2024 00:16:42.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _mateonavarro_ left the game
+[10Dec2024 00:16:42.229] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _mateonavarro_
+[10Dec2024 00:17:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur has made the advancement [Stone Age]
+[10Dec2024 00:17:42.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur lost connection: Disconnected
+[10Dec2024 00:17:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur left the game
+[10Dec2024 00:17:42.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tinwur

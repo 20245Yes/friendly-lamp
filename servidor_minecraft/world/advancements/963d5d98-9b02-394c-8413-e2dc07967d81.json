@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-10 00:15:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-09 23:18:48 +0000"
@@ -813,6 +819,12 @@
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2024-12-09 23:14:28 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-10 00:07:39 +0000"
     },
     "done": true
   },
@@ -2197,6 +2209,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-10 00:07:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2024-12-09 23:50:46 +0000"
@@ -2706,6 +2724,12 @@
       "has_iron_ingot": "2024-12-09 23:14:43 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-10 00:12:33 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
@@ -5118,6 +5142,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 00:15:56 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-09 23:19:36 +0000"
@@ -5900,6 +5930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 00:15:56 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2024-12-09 23:06:05 +0000"
@@ -5927,6 +5963,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-09 23:18:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 00:15:56 +0000"
     },
     "done": true
   },
@@ -7218,6 +7260,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2024-12-09 23:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 00:15:56 +0000"
     },
     "done": true
   },
