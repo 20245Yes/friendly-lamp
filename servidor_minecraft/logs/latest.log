@@ -89,3 +89,56 @@
 [10Dec2024 00:51:06.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiGi_III lost connection: Disconnected
 [10Dec2024 00:51:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III left the game
 [10Dec2024 00:51:06.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GiGi_III
+[10Dec2024 01:01:39.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiGi_III[/127.186.105.195:47689] logged in with entity id 15782 at (195.93291879421577, 79.0, 107.20276203707208)
+[10Dec2024 01:01:39.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to GiGi_III
+[10Dec2024 01:01:39.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to GiGi_III
+[10Dec2024 01:01:39.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to GiGi_III
+[10Dec2024 01:01:39.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to GiGi_III
+[10Dec2024 01:01:39.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to GiGi_III
+[10Dec2024 01:01:39.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to GiGi_III
+[10Dec2024 01:01:39.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to GiGi_III
+[10Dec2024 01:01:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III joined the game
+[10Dec2024 01:01:39.952] [Server thread/INFO] [Jade/]: Syncing config to GiGi_III (b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82)
+[10Dec2024 01:01:41.677] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GiGi_III (18)
+[10Dec2024 01:01:41.678] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GiGi_III
+[10Dec2024 01:06:15.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III has made the advancement [Convergent Evolution...]
+[10Dec2024 01:07:17.069] [Worker-Main-312/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[10Dec2024 01:07:25.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[10Dec2024 01:07:39.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiGi_III moved too quickly! 9.867544790924399,0.7523773130511273,2.66085077338397
+[10Dec2024 01:07:39.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[10Dec2024 01:07:43.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[10Dec2024 01:07:47.783] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[10Dec2024 01:08:13.989] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[10Dec2024 01:08:14.004] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[10Dec2024 01:08:14.008] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.009] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.009] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[10Dec2024 01:08:14.023] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.025] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.026] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.028] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.029] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.029] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[10Dec2024 01:08:14.031] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.033] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.034] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.036] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.037] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[10Dec2024 01:08:14.038] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.039] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.040] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.041] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.041] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[10Dec2024 01:08:14.041] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[10Dec2024 01:08:14.041] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[10Dec2024 01:08:14.043] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.044] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.046] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[10Dec2024 01:08:14.046] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[10Dec2024 01:08:14.047] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[10Dec2024 01:08:14.047] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.049] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[10Dec2024 01:08:14.049] [Worker-Main-310/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[10Dec2024 01:08:20.211] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[10Dec2024 01:09:02.915] [Worker-Main-310/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[10Dec2024 01:09:03.544] [Worker-Main-310/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
