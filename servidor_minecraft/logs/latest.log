@@ -74,3 +74,15 @@
 [10Dec2024 00:17:42.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tinwur lost connection: Disconnected
 [10Dec2024 00:17:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinwur left the game
 [10Dec2024 00:17:42.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tinwur
+[10Dec2024 00:33:03.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiGi_III[/127.186.105.195:45707] logged in with entity id 13584 at (205.88973577594533, 80.0, 107.56519161851392)
+[10Dec2024 00:33:03.206] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to GiGi_III
+[10Dec2024 00:33:03.206] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to GiGi_III
+[10Dec2024 00:33:03.207] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to GiGi_III
+[10Dec2024 00:33:03.207] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to GiGi_III
+[10Dec2024 00:33:03.209] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to GiGi_III
+[10Dec2024 00:33:03.211] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to GiGi_III
+[10Dec2024 00:33:03.211] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to GiGi_III
+[10Dec2024 00:33:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiGi_III joined the game
+[10Dec2024 00:33:03.363] [Server thread/INFO] [Jade/]: Syncing config to GiGi_III (b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82)
+[10Dec2024 00:33:05.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GiGi_III (18)
+[10Dec2024 00:33:05.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GiGi_III
